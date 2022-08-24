@@ -1,0 +1,25 @@
+[**Información del Cutonala**](http://www.cutonala.udg.mx/)
+
+# Doctorado en Investigación Multidisciplinaria en Salud
+
+Los países considerados potencias mundiales son aquellos que han sustentado su economía en el desarrollo de sus recursos y no en aquellos que la naturaleza les otorgo. Estos recursos, creados por ellos mismos, son producto de un modelo basado en la Ciencia o el desarrollo científico. Este marco les permite identificar y caracterizar el problema y, por ende, crear la tecnología para resolver problemas inherentes de su sociedad y su tiempo sin la dependencia de otros. Sin embargo, el principal atributo de trabajar bajo este marco científico les permite vislumbrar, elegir y planear su futuro.  
+
+Este contexto debe ser planeado y sustentado por los gobiernos, la iniciativa privada y las universidades, con el fin de obtener los recursos humanos y económicos requeridos. Para que un país pueda lograr este desarrollo se requiere un trabajo multidisciplinario en todos los ámbitos, ya que los problemas actuales solicitan una resolución rápida, con un bajo costo y sustentables a largo plazo.
+
+Este trabajo colaborativo (multi-inter y transdisciplinar) permite integrar el conocimiento de varias disciplinas con el objetivo de resolver problemas cada vez más complejos. Esta conjunción de diferentes áreas ha permitido un crecimiento inimaginable en la producción científica, desde publicaciones hasta patentes, pero su mayor logro ha sido en el impacto que tiene en la sociedad.
+
+En la actualidad la producción científica y tecnológica en México continúa siendo escasa en las instituciones tanto públicas como privadas. El principal factor de este rezago radica en la escasa colaboración de grupos de trabajo para la creación de conocimiento y tecnología.
+[**Información obtenida aquí**](http://www.cutonala.udg.mx/oferta-academica/DIMS)
+
+“Como parte de la primera generación (2020-2023) de este posgrado, presentamos nuestro proyecto multidisciplinario de investigación, el cual aborda la problemática en el establecimiento de las infraestructuras en Salud en el estado de Jalisco mismas que hasta la fecha, se rigen de forma centralizada y sin analizar datos o información estadística que se encuentra en los repositorios de información de los establecimientos de Salud vía las bases de datos públicas. Este proyecto de investigación se centra en analizar con métodos de inteligencia artificial (IA), la información disponible de bases de datos públicas en los sistemas de salud, y obtener un nuevo nivel de conocimiento basado en la interpretación de los datos, para la toma de decisiones en infraestructuras de Salud en el estado de Jalisco.”
+
+Proyecto de investigación: **Modelo teórico para la toma de decisiones en infraestructuras en Salud en el estado de Jalisco mediante inteligencia artificial.**
+
+# Autores.
+
+* Agustín Grajales Castillo, Centro Universitario de Tonalá, Universidad de Guadalajara, Guadalajara, México, agustin.grajales3462@alumnos.udg.mx (autor principal)
+* Arieh Roldan Mercado Sesma, Centro Universitario de Tonalá, Universidad de Guadalajara, Guadalajara, México, arieh.mercado@academicos.udg.mx
+* Virgilio Zúñiga Grajeda, Centro Universitario de Tonalá, Universidad de Guadalajara, Guadalajara, México, virgilio.zuniga@academicos.udg.mx
+Felipe de Jesús Orozco Luna, Centro de Análisis de Datos y Súper cómputo, Universidad de Guadalajara, Guadalajara, México, forozco@cads.udg.mx
+* Luis Antonio Medellín Serna, Centro Universitario de Ciencias Exactas e Ingenierías, Universidad de Guadalajara, México, luis.medellin@academicos.udg.mx
+* Joel González Lara, Centro Universitario de Ciencias Exactas e Ingenierías, Universidad de Guadalajara, Guadalajara, México, 	JoelGL23@outlook.com
