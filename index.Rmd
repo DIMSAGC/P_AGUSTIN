@@ -1,4 +1,4 @@
-[**Información del Cutonala**](http://www.cutonala.udg.mx/)
+[**CENTRO UNIVERSITARIO DE TONALÁ**](http://www.cutonala.udg.mx/)
 
 # Doctorado en Investigación Multidisciplinaria en Salud
 
@@ -11,13 +11,14 @@ Este trabajo colaborativo (multi-inter y transdisciplinar) permite integrar el c
 En la actualidad la producción científica y tecnológica en México continúa siendo escasa en las instituciones tanto públicas como privadas. El principal factor de este rezago radica en la escasa colaboración de grupos de trabajo para la creación de conocimiento y tecnología.
 [**Información obtenida aquí**](http://www.cutonala.udg.mx/oferta-academica/DIMS)
 
-“Como parte de la primera generación (2020-2023) de este posgrado, presentamos nuestro proyecto multidisciplinario de investigación, el cual aborda la problemática en el establecimiento de las infraestructuras en Salud en el estado de Jalisco mismas que hasta la fecha, se rigen de forma centralizada y sin analizar datos o información estadística que se encuentra en los repositorios de información de los establecimientos de Salud vía las bases de datos públicas. Este proyecto de investigación se centra en analizar con métodos de inteligencia artificial (IA), la información disponible de bases de datos públicas en los sistemas de salud, y obtener un nuevo nivel de conocimiento basado en la interpretación de los datos, para la toma de decisiones en infraestructuras de Salud en el estado de Jalisco.”
-
 Proyecto de investigación: **Modelo teórico para la toma de decisiones en infraestructuras en Salud en el estado de Jalisco mediante inteligencia artificial.**
+
+Como parte de la primera generación (2020-2023) de este posgrado, presentamos nuestro proyecto multidisciplinario de investigación, el cual aborda la problemática en el establecimiento de las infraestructuras en Salud en el estado de Jalisco mismas que hasta la fecha, se rigen de forma centralizada y sin analizar datos o información estadística que se encuentra en los repositorios de información de los establecimientos de Salud vía las bases de datos públicas. Este proyecto de investigación se centra en analizar con métodos de inteligencia artificial (IA), la información disponible de bases de datos públicas en los sistemas de salud, y obtener un nuevo nivel de conocimiento basado en la interpretación de los datos, para la toma de decisiones en infraestructuras de Salud en el estado de Jalisco.
 
 # Autores.
 
 * Agustín Grajales Castillo, Centro Universitario de Tonalá, Universidad de Guadalajara, Guadalajara, México, agustin.grajales3462@alumnos.udg.mx (autor principal)
+* Raúl Cuauhtémoc Baptista Rosas, Centro Universitario de Tonalá, Universidad de Guadalajara, Guadalajara, México, rbaptista@academicos.udg.mx
 * Arieh Roldan Mercado Sesma, Centro Universitario de Tonalá, Universidad de Guadalajara, Guadalajara, México, arieh.mercado@academicos.udg.mx
 * Virgilio Zúñiga Grajeda, Centro Universitario de Tonalá, Universidad de Guadalajara, Guadalajara, México, virgilio.zuniga@academicos.udg.mx
 Felipe de Jesús Orozco Luna, Centro de Análisis de Datos y Súper cómputo, Universidad de Guadalajara, Guadalajara, México, forozco@cads.udg.mx

@@ -1,0 +1,20 @@
+# Anexo 1
+
+Agrupamiento de municipios y categorización de variables.
+
+![](images/Captura10.PNG){width=50%}
+
+# Anexo 2
+
+Código fuente para árboles de decisión, random forest y baggin
+
+![](images/Captura11.PNG){width=50%}
+
+# Anexo 3
+
+Ejemplo de árbol de decisión, variables de importancia y estadístico de resultados
+
+![](images/Captura12.PNG){width=50%}
+![](images/Captura13.PNG){width=50%}
+![](images/Captura14.PNG){width=50%}
+![](images/Captura15.PNG){width=50%}
