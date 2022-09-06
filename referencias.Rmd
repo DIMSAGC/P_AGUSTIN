@@ -1,0 +1,35 @@
+* Alsina, M. G. (2017). Big Data: Gestión y explotación de grandes volúmenes de datos (Vol. 36). Editorial UOC.
+
+* Beltrán Pascual, M., Muñoz Martínez, A., & Muñoz Alamillos, Á. (2014). Redes bayesianas aplicadas a problemas de credit scoring. Una aplicación práctica. Cuadernos de Economía, 37(104), 73–86. doi:10.1016/j.cesjef.2013.07.001 
+
+* Certificado de Necesidad | Secretaría de Salud | Gobierno | gob.mx (www.gob.mx)
+
+* García, A. K. (2019, 5 enero). Los retos para mejorar el sistema de salud pública en México. El Economista. https://www.eleconomista.com.mx/
+
+* Holmes, D. E., & Otero-Piñeiro, D. (2018). Big Data: una breve introducción. Barcelona: Antoni Bosch editor.
+
+* https://cran.r-project.org/
+
+* https://economipedia.com/definiciones/estadistica.html
+
+* https://www.rstudio.com/
+
+* Instituto de Información y Estadística Geográfica, del estado de Jalisco (IIEG)
+
+* Instituto Nacional de Estadística Geografía e Informática. ​Datos​. https://www.inegi.org.mx/​datos/
+
+* Jiménez, M. (2016, 3 octubre). Sistema de salud pública, un problema más para los mexicanos • Economía y finanzas •. Forbes México. https://www.forbes.com.mx/sistema-de-salud-publica-un-problema-mas-para-los-mexicanos/
+
+* Méndez, J. (2019). La contracción del gasto per cápita en salud: 2010:2020. CIEP. Recuperado 18 marzo, 2020, de https://ciep.mx/GvUt
+
+* Nin Guerrero, J., Julbe López, F., & Casas Roma, J. (2019). Big data: análisis de datos en entornos masivos. Big data, 1-287.
+
+* Octavio Gómez Dantés, MC, MSP, Sergio Sesma, Lic en Ec, M en Ec,  Victor M. Becerril, Lic en Ec, M en Soc, Felicia M. Knaul, PhD, Héctor Arreola, Lic en Ec, M en Ec, Julio Frenk, MC, PhD. (2010). Sistema de salud de México. 2022, febrero 12, de Salud Pública. Sitio web: https://saludpublica.mx/index.php/spm/article/view/5043/10023
+
+* Pódcast Industria 4.0. (2020). Pódcast Industria 4.0, 58. https://www.podcastindustria40.com/analitica-de-datos-industria/
+
+* Plan Maestro de Infraestructura Física en Salud | Secretaría de Salud | Gobierno | gob.mx (www.gob.mx)
+
+* Topol, E. J. (2019). High-performance medicine: the convergence of human and artificial intelligence. Nature Medicine, 25(1), 44–56. doi:10.1038/s41591-018-0300-7
+
+* Turban, E., Sharda, R., & Delen, D. (2011). Decision support and business intelligence system. New Jersey, United State Of America: Prentice Hall. Dipetik April, 23, 2020.

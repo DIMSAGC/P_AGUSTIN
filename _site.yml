@@ -13,6 +13,7 @@ navbar:
     - text: "ANEXOS"
       href: anexos.html
     - text: "REFERENCIAS"
+      href: referencias.html
       
 
 output:
