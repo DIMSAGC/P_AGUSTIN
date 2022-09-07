@@ -21,6 +21,6 @@ Como parte de la primera generación (2020-2023) de este posgrado, presentamos n
 * Raúl Cuauhtémoc Baptista Rosas, Centro Universitario de Tonalá, Universidad de Guadalajara, Guadalajara, México, rbaptista@academicos.udg.mx
 * Arieh Roldan Mercado Sesma, Centro Universitario de Tonalá, Universidad de Guadalajara, Guadalajara, México, arieh.mercado@academicos.udg.mx
 * Virgilio Zúñiga Grajeda, Centro Universitario de Tonalá, Universidad de Guadalajara, Guadalajara, México, virgilio.zuniga@academicos.udg.mx
-Felipe de Jesús Orozco Luna, Centro de Análisis de Datos y Súper cómputo, Universidad de Guadalajara, Guadalajara, México, forozco@cads.udg.mx
+* Felipe de Jesús Orozco Luna, Centro de Análisis de Datos y Súper cómputo, Universidad de Guadalajara, Guadalajara, México, forozco@cads.udg.mx
 * Luis Antonio Medellín Serna, Centro Universitario de Ciencias Exactas e Ingenierías, Universidad de Guadalajara, México, luis.medellin@academicos.udg.mx
 * Joel González Lara, Centro Universitario de Ciencias Exactas e Ingenierías, Universidad de Guadalajara, Guadalajara, México, 	JoelGL23@outlook.com
