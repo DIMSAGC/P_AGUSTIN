@@ -3,16 +3,16 @@ output_dir: "."
 navbar:
   title: "P_Agustin"
   right:
-    - text: "INICIO"
+    - text: "Inicio"
       href: index.html
-    - text: "GENERAL"
+    - text: "General"
       href: general.html
-    - text: "VISUALIZACIÓN"
-    - text: "DISCUSIÓN"
+    - text: "Visualización"
+    - text: "Discusión"
       href: discusion.html
-    - text: "ANEXOS"
+    - text: "Anexos"
       href: anexos.html
-    - text: "REFERENCIAS"
+    - text: "Referencias"
       href: referencias.html
       
 

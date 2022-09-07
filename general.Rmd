@@ -22,12 +22,18 @@ El aprendizaje no supervisado se utiliza cuando el problema requiere una cantida
 
 - Aprendizaje por refuerzo. Este tipo de algoritmos son una mezcla de los dos anteriores.
 
-- *Deep learning (DL).*  Basado en funcionamiento de redes neuronales humanas.
+- *Deep learning (DL).* Basado en funcionamiento de redes neuronales humanas.
 El deep learning es un método específico de machine learning que incorpora las redes neuronales en capas sucesivas para aprender de los datos de manera iterativa. El deep learning es especialmente útil cuando se trata de aprender patrones de datos no estructurados. Las redes neuronales complejas de deep learning están diseñadas para emular cómo funciona el cerebro humano, así que las computadoras pueden ser entrenadas para lidiar con abstracciones y problemas mal definidos. Las redes neuronales y el deep learning se utilizan a menudo en el reconocimiento de imágenes, voz y aplicaciones de visión de computadora.
 
-**Estadística.**La estadística es una disciplina científica que se ocupa de la obtención, orden y análisis de un conjunto de datos con el fin de obtener explicaciones y predicciones sobre fenómenos observados. Se puede subdividir en dos grandes ramas: descriptiva e inferencial. https://economipedia.com/definiciones/estadistica.html
+**Estadística.**
 
-**Estadística descriptiva.**Se refiere a los métodos de recolección, organización, resumen y presentación de un conjunto de datos. Se trata principalmente de describir las características fundamentales de los datos y para ellos se suelen utilizar indicadores, gráficos y tablas. https://economipedia.com/definiciones/estadistica.html
+La estadística es una disciplina científica que se ocupa de la obtención, orden y análisis de un conjunto de datos con el fin de obtener explicaciones y predicciones sobre fenómenos observados. Se puede subdividir en dos grandes ramas: descriptiva e inferencial. https://economipedia.com/definiciones/estadistica.html
 
-**Estadística inferencial.**Se refiere a los métodos utilizados para poder hacer predicciones, generalizaciones y obtener conclusiones a partir de los datos analizados teniendo en cuenta el grado de incertidumbre existente. https://economipedia.com/definiciones/estadistica.html
+**Estadística descriptiva.**
+
+Se refiere a los métodos de recolección, organización, resumen y presentación de un conjunto de datos. Se trata principalmente de describir las características fundamentales de los datos y para ellos se suelen utilizar indicadores, gráficos y tablas. https://economipedia.com/definiciones/estadistica.html
+
+**Estadística inferencial.**
+
+Se refiere a los métodos utilizados para poder hacer predicciones, generalizaciones y obtener conclusiones a partir de los datos analizados teniendo en cuenta el grado de incertidumbre existente. https://economipedia.com/definiciones/estadistica.html
 
