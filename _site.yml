@@ -7,6 +7,8 @@ navbar:
       href: index.html
     - text: "General"
       href: general.html
+    - text: "Justificación"
+      href: justificacion.html
     - text: "Visualización"
     - text: "Discusión"
       href: discusion.html
