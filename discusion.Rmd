@@ -1,3 +1,5 @@
+Los resultados resumidos se presentan en la sección de Resultados con los tres algoritmos de los tres quinquenios para 6, 4 y 5 variables.
+
 Para el quinquenio 2010-2014, con 6 variables, el mejor resultado se presenta en los árboles de decisión en 100%: **Zapotiltic beneficiaría a 24 municipios de 4 zonas, cubriendo una población de 476,907 habitantes**. Para el quinquenio 2015-2019, con 6 variables, el mejor resultado se presenta en los arboles de decisión en 100%: **San Miguel El Alto beneficiaría a 20 municipios de 3 zonas, cubriendo una población de 819,379 habitantes**. Para el quinquenio 2020, con 6 variables, el mejor resultado se presenta en los bosques aleatorios en 70%: **La Barca beneficiaría a 16 municipios de 6 zonas cubriendo, una población de 1´017,468 habitantes**. 
 
 Con 4 variables, los mejores resultados fueron en bosques aleatorios al 88% y con 5 variables los mejores resultados fueron en *bagging* al 88%.
